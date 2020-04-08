@@ -16,12 +16,7 @@ Google Glass
 </p>
 
 <div>
-  <a href="https://gyazo.com/86eece7c423e85d38399871afa64da3d">
-   <img src="https://i.gyazo.com/86eece7c423e85d38399871afa64da3d.gif" alt="Image from Gyazo" width="1280"/>
- </a>
-  <a href="https://gyazo.com/9a15df6d59f13efa27add26d777423ae">
-   <img src="https://i.gyazo.com/9a15df6d59f13efa27add26d777423ae.gif" alt="Image from Gyazo" width="900"/>
- </a>
+ 
 </div>
 
 <hr />
